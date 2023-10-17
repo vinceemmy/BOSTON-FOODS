@@ -10,7 +10,7 @@ screen 1         | screen 2
 ## Features used in excel
 #### Formulas and Conditional statements.
 
-## Problem Statement
+## Objectives
 #### 1.	To determine the average revenue fro the sale if the Paseo product alone 
 #### 2.	Number of transactions made in the government and Midmarket segment 
 #### 3.	Total revenue generated in Canada from the sale of Montana alone
@@ -20,7 +20,7 @@ screen 1         | screen 2
 ![](summary.png)
 ---
 ---
-## ANALYSIS
+## Analysis
 
 ### The above data shows that;
 #### The product Paseo generated an average revenue of $163,421.50.
