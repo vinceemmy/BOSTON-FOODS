@@ -1,4 +1,4 @@
-# BOSTON FOODS
+# BOSTON FOODS: Sales Analysis from Sept 2013 to December 2014
 ![](bostonfoodsimage.gif)
 ## Introduction
 #### The data as shown in this repository was created to analyze the performance of the BOSTON FOODS outfit through a specific period and to determine the period it had its highest sales and average profit as well as other relevant information. The data in this data set if for the period of September 2013 to December 2014.
